@@ -4,4 +4,4 @@ Using training data to predict testing data by using following machine learning 
 ### XGBoost, Light GBM
 ---
 PS... Imbalance training data problems still have to be solved in the future.
-Kaggle Competition URL: https://www.kaggle.com/c/nthuds2021hw3/leaderboard
+#### Kaggle Competition URL: https://www.kaggle.com/c/nthuds2021hw3/leaderboard
